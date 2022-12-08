@@ -65,7 +65,18 @@ output of service file:
 ![image](https://user-images.githubusercontent.com/100608327/206571479-77469712-e9ce-4858-afc2-17854595f475.png)
 
 ## 6:
+timer file:
+```
+[Unit]
+Description=Runs the motd-updater service 1 minute after booting and every day
 
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=1d
+
+[Install]
+WantedBy=timers.target
+```
 
 
 
