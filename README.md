@@ -1,4 +1,4 @@
-# Exam_2420 README
+# Exam_2420 README BY JACOB LLOYD, SET B, A01179282
 
 ## 1: to update most of the software in your ubuntu OS, you can use the commands:
 ```
