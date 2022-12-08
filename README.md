@@ -33,7 +33,7 @@ multiple home directories:
 ![image](https://user-images.githubusercontent.com/100608327/206567866-01a38d86-943e-467d-9e92-080a52e28e7e.png)
 
 This is my script for this question, the output of the script is below:
-![image](https://user-images.githubusercontent.com/100608327/206567948-28d4609d-d9d2-492c-ad0e-39df6587c7fa.png)
+![image](https://user-images.githubusercontent.com/100608327/206574643-e0718126-6a79-45c6-8c31-07ab4b6b8fab.png)
 
 MY ACTUAL UPDATED SCRIPT IN A CODE BLOCK:
 ```
